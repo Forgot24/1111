@@ -14,7 +14,7 @@
 
 
 
-<html>
+
 <head>
 <title>Создание таблиц в HTML, примеры</title>
 </head>
@@ -30,9 +30,9 @@ cellpadding="8" style="background-color:#cc0000; color:#ffffff">
 </tr>
 </table>
 </body>
-</html>
 
-<html>
+
+
 <div id="fotter">
     <ul>
         <li><a href="#">Справка</a></li>
